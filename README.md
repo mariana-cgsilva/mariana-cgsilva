@@ -1,5 +1,5 @@
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=0,1,2,3,4"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=0,1,2,3,4"/>
 
 <h1 align="left">Hey!! 👋 Welcome to my GitHub!</h1>
 
@@ -35,4 +35,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariana-cgsilva&layout=compact)
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=0,1,2,3,4 &section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=0,1,2,3,4&section=footer"/>
