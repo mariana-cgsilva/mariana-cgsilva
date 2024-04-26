@@ -1,9 +1,8 @@
-### Olá! Eu sou a Mariana Silva 👋
-
+<h1 align="left">Hey!! My name is Mariana Silva 👋</h1>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariana-cgsilva&layout=compact)
 
-## Entre em contato comigo
+## Get in touch with me
 
 [![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariana-costa-gonçalves-da-silva)
 
