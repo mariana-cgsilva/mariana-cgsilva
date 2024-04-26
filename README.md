@@ -1,5 +1,5 @@
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=0,1,2,3,4"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&customColorList=0,1,2,3,4"/>
 
 <h1 align="left">Hey!! 👋 Welcome to my GitHub!</h1>
 
@@ -7,7 +7,7 @@
 
 ## About me
 
-<p align="left">My name is Mariana Silva and I'm a from São Paulo, Brazil. I'm a software engineer who is passionate about crafting innovative technology solutions. Here, you'll find a collection of my projects. Feel free to explore, contribute, and connect with me. Let's innovate and build together!</p>
+<p align="left">My name is Mariana Silva and I'm from São Paulo, Brazil. I'm a software engineer who is passionate about crafting innovative technology solutions. Here, you'll find a collection of my projects. Feel free to explore, contribute, and connect with me. Let's innovate and build together!</p>
 
 ## Get in touch with me
 
@@ -35,4 +35,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariana-cgsilva&layout=compact)
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=0,1,2,3,4&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&customColorList=0,1,2,3,4&section=footer"/>
