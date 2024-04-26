@@ -1,10 +1,15 @@
-<h1 align="left">Hey!! My name is Mariana Silva 👋</h1>
+<h1 align="left">Hey!! 👋 Welcome to my GitHub!</h1>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariana-cgsilva&layout=compact)
+
+## About me
+
+<p align="left">My name is Mariana Silva and I'm a from São Paulo, Brazil. Here, you'll find a collection of my projects. Feel free to explore, contribute, and connect with me. Let's innovate and build together!</p>
 
 ## Get in touch with me
 
 [![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariana-costa-gonçalves-da-silva)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mariana.cgsilva@gmail.com)
 
 ## Skills
 
