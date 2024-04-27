@@ -11,9 +11,9 @@
 
 Areas of Interest:
 
-🔐 Information Security;
-🧠 Artificial Intelligence;
-💻 Automation.
+- 🔐 Information Security;
+- 🧠 Artificial Intelligence;
+- 💻 Automation.
 
 
 ## Get in touch with me
