@@ -9,6 +9,14 @@
 
 <p align="left">My name is Mariana Silva and I'm from São Paulo, Brazil. I'm a software engineer who is passionate about crafting innovative technology solutions. Here, you'll find a collection of my projects. Feel free to explore, contribute, and connect with me. Let's innovate and build together!</p>
 
+<p align="left">
+Areas of Interest:
+
+🔐 Information Security;
+🧠 Artificial Intelligence;
+💻 Automation.
+</p>
+
 ## Get in touch with me
 
 [![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariana-costa-gonçalves-da-silva)
